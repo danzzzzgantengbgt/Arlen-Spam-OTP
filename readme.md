@@ -139,6 +139,6 @@ Proyek ini dilisensikan di bawah **MIT License**.
 
 <br>
 <div align="center">
-  <b>Dibuat oleh: Aldan</b><br>
+  <b>Dibuat oleh: Aldan & Bantuan AI</b><br>
   <i>Versi: 1.0.0</i>
 </div>
